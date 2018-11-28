@@ -12,10 +12,10 @@ I would be sharing my takeaways from the event below:
 
 # My Takeaways
 
-1. Always have your computing power on a check and maybe have a backup; I had internet issues and had to settle for Jupyter notebook on my laptop which was an issue for me because my laptop out of memory and crashed a couple of times. 
+1. Have a sound computing device with internet availability; I had internet issues and had to settle for Jupyter notebook on my laptop which was an issue for me because my laptop ran out of memory and crashed a couple of times. 
 2. Teamwork is key: We shared tasks which help simplify the work. Also brainstorming was basically key to our result. 
 3. Being tensed and all worked up won’t do you any good. Just take a break and refresh 
 4. Don’t compare your team to others; Just keep aiming for greater heights and see where it leads you.
 5. Communities are great for learning; you learn a lot and get to connect and share ideas. 
 6. Always have a backup internet service; We had issues using cloud ML tools for training because of networks issues due to a stream of individuals connected to one network
-7. AI in Africa is growing rapidly. We are definitely not letting the "age" pass us by. Africa golden generation is now
+7. AI in Africa is growing rapidly. We are definitely not letting this "AI age" pass us by. Africa's golden generation is underway.
