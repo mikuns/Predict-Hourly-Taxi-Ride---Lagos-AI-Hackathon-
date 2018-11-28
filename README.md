@@ -6,7 +6,7 @@ Team A1 (2nd Place) Submission for the Lagos AI Hackathon that was held on July 
 This was my second AI Hackathon and was quite a refreshing one. InstaDeep Co-Founder & CEO, Karim Beguir gave a wonderful speech on the current trend of AI and how Africa needs to take a stand now so as not to be left out.
 
 For the Hackathon, we were shared into groups of 4 or 3, and the task was to predict the hourly Taxi ride in New York.
-I was my team's leader and it was a wonderful experience. We fought really but were bitten at the near end.
+I was my team's leader and it was a wonderful experience. We fought really hard but were bitten at the near end.
 
 I would be sharing my takeaways from the event below:
 
